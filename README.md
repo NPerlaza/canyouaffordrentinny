@@ -1,5 +1,7 @@
 # canyouaffordrentinny
 
+##Main file is nyc.ipynb
+
 
 ## Project Description
 This repository was created in order to test our analysis skills using datasets in pandas and creating visualization tools
