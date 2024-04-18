@@ -11,4 +11,15 @@ Gender
 Age
 Ethnicity
 
-##Analyses
+##Analysis
+Using the visualization tools created our team will see if there is any corelation between rentail prices in NYC and income levels and how the increase in rent impacts the demographics of NYC.
+
+##Sources
+Data was pulled from Census as well as Street Easy
+
+##File Description
+The project was created using Jupyter notebooks using Pandas,Matplot, Numpy modules
+It can run and be viewed in any source code editor or in the Git Repository
+
+##Contributors
+Rafael, Christine, Ashley, Andrea, Natalia
